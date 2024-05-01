@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Any and all fun indie projects**
 
-- 👨‍💻 All of my finished work is available at [https://wordpress.com/view/silverdarlin.wordpress.com](https://wordpress.com/view/silverdarlin.wordpress.com)
+- 👨‍💻 All of my finished work is available at WEBSITE CURRENTLY UNDER MAINTENANCE
 
 - 📫 How to reach me **samdyson56@gmail.com**
-
-- ⚡ Fun fact **As a former go-Karter, I'm probably the fastest programmer in England**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
