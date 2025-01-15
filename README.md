@@ -1,13 +1,13 @@
 <h1 align="center">Hello there, I'm Sam Dyson</h1>
 <h3 align="center">I'm a student and programmer from the UK</h3>
 
-- 🔭 I’m currently working on **University work**
+- 🔭 I’m currently working on **University Masters work**
 
-- 🌱 I’m currently learning **C++. It's slow, but we're getting there**
+- 🌱 I’m currently learning **Procedural Content Generation**
 
 - 👯 I’m looking to collaborate on **Any and all fun indie projects**
 
-- 👨‍💻 All of my finished work is available at WEBSITE CURRENTLY UNDER MAINTENANCE
+- 👨‍💻 My finished work is available at silverdarlin.itch.io
 
 - 📫 How to reach me **samdyson56@gmail.com**
 
