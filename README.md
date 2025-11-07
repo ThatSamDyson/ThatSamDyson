@@ -1,9 +1,9 @@
 <h1 align="center">Hello there, I'm Sam Dyson</h1>
 <h3 align="center">I'm a student and programmer from the UK</h3>
 
-- 🔭 I’m currently working on **University Masters work**
+- 🔭 I’m currently working on **Project Kaiju**
 
-- 🌱 I’m currently learning **Procedural Content Generation**
+- 🌱 I’m currently learning **Multiplayer Networking**
 
 - 👯 I’m looking to collaborate on **Any and all fun indie projects**
 
