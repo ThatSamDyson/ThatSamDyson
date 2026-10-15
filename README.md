@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm Sam Dyson</h1>
-<h3 align="center">I'm a student and programmer from the UK</h3>
+<h3 align="center">I'm a programmer from the UK</h3>
 
-- 🔭 I’m currently working on **Project Kaiju**
+- 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Multiplayer Networking**
+- 🌱 I’m currently re-learning **C++**
 
-- 👯 I’m looking to collaborate on **Any and all fun indie projects**
+- 👯 I’m currently **not looking to collaborate**
 
 - 👨‍💻 My finished work is available at silverdarlin.itch.io
 
